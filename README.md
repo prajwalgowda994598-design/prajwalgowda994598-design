@@ -1,8 +1,8 @@
 
-# 💫 Hi 👋, I'm Imran Alam
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+# 💫 Hi 👋, I'm M M PRAJWAL
+**A software Engineer || DevOps Engineer **
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **prajwalgowda994598@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** Enter your tech here
